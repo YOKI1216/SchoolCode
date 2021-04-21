@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class Test {
     public static void main(String[] args) {
+        //happy
         Scanner input = new Scanner(System.in);
         System.out.println("输入数组元素的个数，创建一个整型数组");
         int[] arr = new int[input.nextInt()];
