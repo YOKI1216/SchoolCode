@@ -1,9 +1,10 @@
 <component name="libraryTable">
   <library name="pinyin4j-2.5.0">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/lib/pinyin4j-2.5.0.jar!/" />
+      <root url="file://$PROJECT_DIR$/pinyin4j-2.5.0/lib" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/pinyin4j-2.5.0/lib" recursive="false" />
   </library>
 </component>
